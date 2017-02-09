@@ -1,6 +1,5 @@
 # Custom paths
 import_lib.sh
-install.sh
 
 # wspecs compiled directories #
 www

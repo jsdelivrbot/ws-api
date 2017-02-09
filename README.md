@@ -1,4 +1,4 @@
-# ws-api:
+# ws-api
 Template project to create API
 
 ## Imported NPM modules
