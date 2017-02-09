@@ -26,7 +26,13 @@
     getEndPoints() {
       return {
         get: [
-          {path: '/hello', handler: this.world.bind(this)},
+          {
+            path: '/hello',
+            handler: this.world.bind(this),
+            sample: '/hello',
+            response: 'hello world',
+            auth: false,
+          },
         ],
       };
     }
