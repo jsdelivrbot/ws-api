@@ -3,5 +3,6 @@
   "col": "{{api}}",
   "files": "uploads/",
   "path": "/{{api}}",
-  "info": "REST api for {{api}}"
+  "info": "REST api for {{api}}",
+  "version": "1.0.0"
 }
