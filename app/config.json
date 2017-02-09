@@ -1,0 +1,7 @@
+{
+  "port": {{port_number}},
+  "col": "{{api}}",
+  "files": "uploads/",
+  "path": "/{{api}}",
+  "info": "REST api for {{api}}"
+}
